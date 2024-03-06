@@ -1,4 +1,4 @@
-# Forecsating-covid19-cases-in-the-uk
+# Forecsating-covid19-cases-and-deaths-in-the-uk
 <h1>Description</h1>
 <p>The aim of the project is to forecast future covid-19 cases and deaths in the united kingdom usin various machine learning and deep learning models. 
   The project compares the accuracy of different models that has been used for forecasting. The forecast is for the entire as well as the four regions that make the uk namely:
